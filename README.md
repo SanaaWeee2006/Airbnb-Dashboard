@@ -5,22 +5,22 @@ This project analyzes Airbnb listings and review data to uncover insights into m
 <br>
 2. Tech Stack:<br>
 The Dashborad was built following tools and technologies:<br>
-   a. Power BI Desktop 
-   b. Power Query Editor
-   c. DAX (Data Analysis Expressions)
-   d. Data Modelling
-
-3. Data Source:
-The Dataset for the project was ontained from Maven Analytics- https://mavenanalytics.io/data-playground/airbnb-listings-reviews
-
-4. Business Problems Addressed by the Airbnb Dashboard
-  a. Identifying High-Demand Markets.
-  b. Understanding Market Supply Distribution.
-  c. Analyzing Pricing Differences Across Room Types
-  d. Evaluating the Relationship Between Price and Guest Satisfaction.
-  e. Monitoring Platform Growth Over Time
-  f. Assessing Host and Listing Concentration
-  g. Measuring Customer Satisfaction Across Cities
-  h. Understanding Room Type Preferences
-  i. Identifying Cities with High Review Engagement
+   a. Power BI Desktop \
+   b. Power Query Editor \
+   c. DAX (Data Analysis Expressions) \
+   d. Data Modelling \
+<br>
+3. Data Source: \
+The Dataset for the project was ontained from Maven Analytics- https://mavenanalytics.io/data-playground/airbnb-listings-reviews. \
+<br>
+4. Business Problems Addressed by the Airbnb Dashboard <br>
+  a. Identifying High-Demand Markets. \
+  b. Understanding Market Supply Distribution. \
+  c. Analyzing Pricing Differences Across Room Types. \
+  d. Evaluating the Relationship Between Price and Guest Satisfaction. \
+  e. Monitoring Platform Growth Over Time. \
+  f. Assessing Host and Listing Concentration. \
+  g. Measuring Customer Satisfaction Across Cities. \
+  h. Understanding Room Type Preferences. \
+  i. Identifying Cities with High Review Engagement. \
 
