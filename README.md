@@ -1,8 +1,8 @@
 # Airbnb-Dashboard
 
-1. Airbnb Data Insights Dashboard
-This project analyzes Airbnb listings and review data to uncover insights into market trends, pricing patterns, host performance, and guest satisfaction. Using Microsoft Power BI, an interactive dashboard was developed to visualize key metrics such as total listings, distribution of property types, pricing by room type, review trends, and city-wise market share. The analysis helps identify high-demand locations, understand how pricing relates to guest ratings, and evaluate the overall performance of Airbnb properties across different cities. The dashboard enables users to explore the data through interactive visuals and filters, supporting data-driven insights into the short-term rental market.
-
+1. Airbnb Data Insights Dashboard \
+This project analyzes Airbnb listings and review data to uncover insights into market trends, pricing patterns, host performance, and guest satisfaction. Using Microsoft Power BI, an interactive dashboard was developed to visualize key metrics such as total listings, distribution of property types, pricing by room type, review trends, and city-wise market share. The analysis helps identify high-demand locations, understand how pricing relates to guest ratings, and evaluate the overall performance of Airbnb properties across different cities. The dashboard enables users to explore the data through interactive visuals and filters, supporting data-driven insights into the short-term rental market.<br>
+<br>
 2. Tech Stack:
 The Dashborad was built following tools and technologies:
    a. Power BI Desktop
@@ -23,6 +23,4 @@ The Dataset for the project was ontained from Maven Analytics- https://mavenanal
   g. Measuring Customer Satisfaction Across Cities
   h. Understanding Room Type Preferences
   i. Identifying Cities with High Review Engagement
-Cities generating a higher number of reviews indicate stronger user engagement and booking activity, which can influence expansion strategies.
 
-Evaluating Market Performance for Strategic Decisions
